@@ -40,6 +40,14 @@ Creación del usuario en el server para poder administrarlo remotamente.
 Ifconfig para enseñar las interfaces añadidas al Server
 ![NetInterfaces](https://drive.google.com/uc?export=view&id=1GwD_2pB8_Wf6NBXBZGKhkcMUBddn-LXx)
 
+---
+
+## Interfaz DMZ
+
+Configuración de rutas para la interfaz DMZ al exterior.
+
+![DMZInterface](https://drive.google.com/uc?export=view&id=118Wk2xjUYwl2Cn4KlzVRplm9mDxsFC8W)
+![DMZInterface2](https://drive.google.com/uc?export=view&id=1kahSaRB48N4y8WsGjUaNL46llZPdZldq)
 
 ---
 
@@ -96,14 +104,6 @@ Instalación de ufw, activar servicio y configuración de políticas:
 
 ![UfwInstall](https://drive.google.com/uc?export=view&id=1-sqx3votuq_4N1zFfqgJyN_OfgwJ7fOu)
 
----
-
-## Interfaz DMZ
-
-Configuración de rutas para la interfaz DMZ al exterior.
-
-![DMZInterface](https://drive.google.com/uc?export=view&id=118Wk2xjUYwl2Cn4KlzVRplm9mDxsFC8W)
-![DMZInterface2](https://drive.google.com/uc?export=view&id=1kahSaRB48N4y8WsGjUaNL46llZPdZldq)
 
 ---
 
