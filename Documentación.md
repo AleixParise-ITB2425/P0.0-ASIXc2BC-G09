@@ -1,63 +1,46 @@
-# Instalación de Servidores 
+# Proyecto
 
 ---
 
-## Introducción y Resumen General
+## ProofHub
 
-Este es el subtítulo de la primera sección, sirviendo como una breve introducción al tema principal. Es donde se establece el contexto y el alcance de lo que se presentará en los siguientes apartados.
+Creación de los diferentes puntos a seguir para llevar el proyecto a cabo de manera ordenada con el grupo.
 
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eget felis at purus commodo euismod. Duis at ligula nec urna mollis eleifend.*
-![SShImage](https://drive.google.com/uc?export=view&id=1Tgar7wh32cglgoPmw8-iAttw_bJx_Sxt)
-
-
----
-
-## Apartado 1: Fundamentos Esenciales
-
-Este subtítulo se centra en los conceptos básicos o pilares del tema.
-
-*Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.*
-![SSh](https://drive.google.com/uc?export=view&id=107wAJUgTMDin7j6za1mgbqoWJOhikbS3)
+![ProofhubImage](https://drive.google.com/uc?export=view&id=1Tgar7wh32cglgoPmw8-iAttw_bJx_Sxt)
+![ProofhubImage2](https://drive.google.com/uc?export=view&id=107wAJUgTMDin7j6za1mgbqoWJOhikbS3)
 
 
 ---
 
-## Apartado 2: Análisis Detallado
+## Usuario de administración: bchecker
 
-Aquí profundizamos en un aspecto específico, ofreciendo una visión más pormenorizada.
-
-*Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.*
-![Texto alternativo](https://drive.google.com/uc?export=view&id=1Hd6BYOxugxYPGlYRNr0MWsezTLz0r969)
+Creación del usuario en el server para poder administrarlo remotamente.
+![UserCreate](https://drive.google.com/uc?export=view&id=1Hd6BYOxugxYPGlYRNr0MWsezTLz0r969)
 
 
 ---
 
-## Apartado 3: Metodología Aplicada
+## Interfaces de red
 
-Descripción de los métodos o procesos utilizados.
-
-*Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.*
-![Texto alternativo](https://drive.google.com/uc?export=view&id=1GwD_2pB8_Wf6NBXBZGKhkcMUBddn-LXx)
+Ifconfig para enseñar las interfaces añadidas al Server
+![NetInterfaces](https://drive.google.com/uc?export=view&id=1GwD_2pB8_Wf6NBXBZGKhkcMUBddn-LXx)
 
 
 ---
 
-## Apartado 4: Resultados y Observaciones
+## Estado del servicio Apache
 
-Presentación de los hallazgos o resultados obtenidos.
-
-*Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.*
-![Texto alternativo](https://drive.google.com/uc?export=view&id=1gNxp7wI2A8hLmUI7kSPn6nG7VierS0kV)
+Mostrar el estado del servicio Apache tras haberlo instalado y configurado:
+![ApacheState](https://drive.google.com/uc?export=view&id=1OPX8adz4LQEmfa4oEbaPwyULFYMmGSKf)
 
 
 ---
 
-## Apartado 5: Implicaciones Futuras
+## Web:
 
-Discusión sobre el impacto a largo plazo o las siguientes etapas.
+Acceder desde el navegador a la web via IP y comprobar el correcto funcionamiento de Apache.
 
-*Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.*
-![Texto alternativo](https://drive.google.com/uc?export=view&id=11md9IaqbPE-eLxc0qoqAE4-SOP_TyQQQ)
+![Web](https://drive.google.com/uc?export=view&id=11md9IaqbPE-eLxc0qoqAE4-SOP_TyQQQ)
 
 
 ---
