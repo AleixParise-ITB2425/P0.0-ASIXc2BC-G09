@@ -1,6 +1,21 @@
 # Proyecto
 
 ---
+## Propuesta sprint inicial
+
+En el primer sprint del proyecto definimos el escenario y la segmentación en tres redes (DMZ, Intranet y salida a Internet). Tras analizar la arquitectura óptima desde las perspectivas de seguridad y prestación de servicios, iniciamos la implantación.
+
+El objetivo principal del sprint fue disponer de un servidor web operativo en la DMZ, manteniéndolo aislado por razones de seguridad. En la red interna se desplegaron los servicios de DHCP y DNS para los clientes corporativos, junto con un servidor de base de datos que da soporte a la aplicación web.
+
+Como entregables del sprint se establecieron:
+
+Servidores instalados y configurados según los requisitos.
+
+Servicios web, DHCP, DNS y base de datos en funcionamiento.
+
+Conectividad verificada entre redes.
+
+Servidor central actuando como router, operativo y validado.
 
 ## ProofHub
 
