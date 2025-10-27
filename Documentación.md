@@ -57,6 +57,9 @@ Acceder desde el navegador a la web via IP y comprobar el correcto funcionamient
 
 ![Web](https://drive.google.com/uc?export=view&id=11md9IaqbPE-eLxc0qoqAE4-SOP_TyQQQ)
 
+Mejorar la interfaz de la pagina web (html)
+
+![WebConfigured](https://drive.google.com/uc?export=view&id=1dH3p226LA2XBjGqyrYWsisncxWZi8MZd)
 
 ---
 
@@ -65,6 +68,15 @@ Acceder desde el navegador a la web via IP y comprobar el correcto funcionamient
 Comprobar el estado de SSH para poder administrar el servidor de manera remota
 
 ![SSHState](https://drive.google.com/uc?export=view&id=1LyupKs1bgrsIWsB4DS4izW0mdTse1DKE)
+
+
+---
+
+## Conexión SSH con bcheacker
+
+Hacemos una conexión SSH al server con el usuario creado para administración
+
+![SSHConnect](https://drive.google.com/uc?export=view&id=1I9UAhsEgwgrvGuTVz6mzCBVxvFttMrNK)
 
 
 ---
@@ -86,42 +98,20 @@ Instalación de ufw, activar servicio y configuración de políticas:
 
 ---
 
-## Apartado 9: Perspectiva Histórica
+## Interfaz DMZ
 
-Un vistazo a la evolución del tema a lo largo del tiempo.
+Configuración de rutas para la interfaz DMZ al exterior.
 
-*Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.*
-![Texto alternativo](https://drive.google.com/uc?export=view&id=118Wk2xjUYwl2Cn4KlzVRplm9mDxsFC8W)
-
-
----
-
-## Apartado 10: Comparativa con Alternativas
-
-Contraste con otros enfoques o soluciones.
-
-*Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Excepturi sint occaecati cupiditate non provident.*
-![Texto alternativo](https://drive.google.com/uc?export=view&id=118Wk2xjUYwl2Cn4KlzVRplm9mDxsFC8W)
-
+![DMZInterface](https://drive.google.com/uc?export=view&id=118Wk2xjUYwl2Cn4KlzVRplm9mDxsFC8W)
+![DMZInterface2](https://drive.google.com/uc?export=view&id=1kahSaRB48N4y8WsGjUaNL46llZPdZldq)
 
 ---
 
-## Apartado 11: Recomendaciones Finales
+## MYSQL
 
-Consejos o directrices basadas en la información presentada.
+Instalar MYSQL y activar el servicio
 
-*Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.*
-![Texto alternativo](https://drive.google.com/uc?export=view&id=1kahSaRB48N4y8WsGjUaNL46llZPdZldq)
-
-
----
-
-## Apartado 12: Conclusión del Tema
-
-Un cierre y resumen final de los puntos clave.
-
-*Duis at ligula nec urna mollis eleifend. Vestibulum eget felis at purus commodo euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit.*
-![Texto alternativo](https://drive.google.com/uc?export=view&id=1Qv-PjuviPZ3RPL113Rr3Aj_xxMyZvGyb)
+![Texto alternativo](https://drive.google.com/uc?export=view&id=1UIH5-PqQm79kOz-oCZHsNe6bxSz7hrRj)
 
 
 ---
@@ -131,24 +121,18 @@ Un cierre y resumen final de los puntos clave.
 Un cierre y resumen final de los puntos clave.
 
 *Duis at ligula nec urna mollis eleifend. Vestibulum eget felis at purus commodo euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit.*
-![Texto alternativo](https://drive.google.com/uc?export=view&id=1dH3p226LA2XBjGqyrYWsisncxWZi8MZd)
+
+
 
 
 ---
 
-## Apartado 14: Conclusión del Tema
+## Apartado 12: Conclusión del Tema
 
 Un cierre y resumen final de los puntos clave.
 
 *Duis at ligula nec urna mollis eleifend. Vestibulum eget felis at purus commodo euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit.*
-![Texto alternativo](https://drive.google.com/uc?export=view&id=1CEdEyw1Kecp5ge8ECiDQdXgBe8J3gewR)
+![Texto alternativo](https://drive.google.com/uc?export=view&id=)
 
 
----
 
-## Apartado 15: Conclusión del Tema
-
-Un cierre y resumen final de los puntos clave.
-
-*Duis at ligula nec urna mollis eleifend. Vestibulum eget felis at purus commodo euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit.*
-![Texto alternativo](https://drive.google.com/uc?export=view&id=1I9UAhsEgwgrvGuTVz6mzCBVxvFttMrNK)
