@@ -45,33 +45,29 @@ Acceder desde el navegador a la web via IP y comprobar el correcto funcionamient
 
 ---
 
-## Apartado 6: Casos de Uso Relevantes
+## Servicio SSH
 
-Ejemplos prácticos de la aplicación del tema.
+Comprobar el estado de SSH para poder administrar el servidor de manera remota
 
-*Voluptates sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.*
-![Texto alternativo](https://drive.google.com/uc?export=view&id=1LyupKs1bgrsIWsB4DS4izW0mdTse1DKE)
-
-
----
-
-## Apartado 7: Desafíos y Limitaciones
-
-Análisis de los obstáculos encontrados.
-
-*Consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?*
-![Texto alternativo](https://drive.google.com/uc?export=view&id=1Wgix6JQHO7fqt7zyG4Y9nufTMl1tZkPI)
+![SSHState](https://drive.google.com/uc?export=view&id=1LyupKs1bgrsIWsB4DS4izW0mdTse1DKE)
 
 
 ---
 
-## Apartado 8: Herramientas y Recursos
+## Nginx
 
-Lista de elementos o utilidades de apoyo.
+Instalación y configuración del servicio Nginx
 
-*Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? At vero eos et accusamus et iusto odio dignissimos ducimus.*
+![Nginx](https://drive.google.com/uc?export=view&id=1Wgix6JQHO7fqt7zyG4Y9nufTMl1tZkPI)
 
-![Texto alternativo](https://drive.google.com/uc?export=view&id=1-sqx3votuq_4N1zFfqgJyN_OfgwJ7fOu)
+
+---
+
+## Firewall
+
+Instalación de ufw, activar servicio y configuración de políticas:
+
+![UfwInstall](https://drive.google.com/uc?export=view&id=1-sqx3votuq_4N1zFfqgJyN_OfgwJ7fOu)
 
 ---
 
