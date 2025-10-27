@@ -116,23 +116,4 @@ Instalar MYSQL y activar el servicio
 
 ---
 
-## Apartado 13: Conclusión del Tema
-
-Un cierre y resumen final de los puntos clave.
-
-*Duis at ligula nec urna mollis eleifend. Vestibulum eget felis at purus commodo euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit.*
-
-
-
-
----
-
-## Apartado 12: Conclusión del Tema
-
-Un cierre y resumen final de los puntos clave.
-
-*Duis at ligula nec urna mollis eleifend. Vestibulum eget felis at purus commodo euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit.*
-![Texto alternativo](https://drive.google.com/uc?export=view&id=)
-
-
 
