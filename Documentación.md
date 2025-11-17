@@ -110,13 +110,20 @@ Instalación de ufw, activar servicio y configuración de políticas:
 ## MYSQL
 
 Instalar MYSQL y activar el servicio
+
 Instalar el servicio y crear la tabla y usuario con sus permisos:
+
 ![set_up_DB](https://drive.google.com/uc?export=view&id=1Btxs17k8AbtvDtauO8fWemHNx9TZPzVL)
 ![Create Table](https://drive.google.com/uc?export=view&id=1kt4JdQhDrAkAnX1Dy1qjUk6BtOIZL4YZ)
+
 Estado del servicio:
+
 ![DB State](https://drive.google.com/uc?export=view&id=1UIH5-PqQm79kOz-oCZHsNe6bxSz7hrRj)
+
 Simplificar el CSV para mostrar contenido relevante:
+
 ![Simplificate CSV](https://drive.google.com/uc?export=view&id=1kIJCsGjKU_wgy-ClVT0mJOudll9dK6kF)
+
 Cargar el CSV en la tabla creada:
 ![load CSV](https://drive.google.com/uc?export=view&id=1y1A7CcPqJIDNA1yr61J0OUvU49jEkyNM)
 
