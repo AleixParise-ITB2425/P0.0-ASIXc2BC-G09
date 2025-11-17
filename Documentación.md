@@ -135,7 +135,7 @@ Cargar el CSV en la tabla creada:
 ## SFTP
 
 Instalacion y configuración del servidor SFTP. Se trata de un servidor cuya unica utilidad sera transferir archivos al servidor web.
-![Texto alternativo](https://drive.google.com/uc?export=view&id=1YWQKmnoEV_Rrx8UHaXjwQC3iRhUpL8KP)
+![Texto alternativo](https://drive.google.com/uc?export=view&id=1TXjBrjG97suJ57XKia49-eJwyQbgdtL5)
 
 
 
