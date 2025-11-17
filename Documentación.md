@@ -111,8 +111,8 @@ Instalación de ufw, activar servicio y configuración de políticas:
 En un servidor de preproducción que utilizamos para realizar las pruebas del proyecto, hemos configurado la base de datos para añadir todos los archivos proporcionados para su desarrollo. Hemos conectado la base de datos con la página web para poder visualizarla a través de esta.
 Al realizar esta tarea en un servidor de preproducción, de cara al siguiente sprint únicamente tendremos que transferir los datos de la máquina de preproducción a los servidores reales correspondientes, y todo funcionará correctamente.
 
-![Texto alternativo](https://drive.google.com/uc?export=view&id=1YWQKmnoEV_Rrx8UHaXjwQC3iRhUpL8KP)
-
+![web php](https://drive.google.com/uc?export=view&id=1lzIvxs9B6QyjkgWD5Vkjt1B5JT8es8yQ)
+![web](https://drive.google.com/uc?export=view&id=1G1Y6ruApYg-vWGu2GKHgSnIdEYnAuM5H)
 
 
 ---
