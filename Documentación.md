@@ -125,6 +125,7 @@ Simplificar el CSV para mostrar contenido relevante:
 ![Simplificate CSV](https://drive.google.com/uc?export=view&id=1kIJCsGjKU_wgy-ClVT0mJOudll9dK6kF)
 
 Cargar el CSV en la tabla creada:
+
 ![load CSV](https://drive.google.com/uc?export=view&id=1y1A7CcPqJIDNA1yr61J0OUvU49jEkyNM)
 
 
