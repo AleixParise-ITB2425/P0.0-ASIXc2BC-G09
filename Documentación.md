@@ -112,7 +112,9 @@ Instalación de ufw, activar servicio y configuración de políticas:
 Instalar MYSQL y activar el servicio
 
 ![Texto alternativo](https://drive.google.com/uc?export=view&id=1UIH5-PqQm79kOz-oCZHsNe6bxSz7hrRj)
+![Simplificate CSV](https://drive.google.com/uc?export=view&id=1kIJCsGjKU_wgy-ClVT0mJOudll9dK6kF)
 
+![load CSV](https://drive.google.com/uc?export=view&id=1y1A7CcPqJIDNA1yr61J0OUvU49jEkyNM)
 
 ---
 ## SFTP
