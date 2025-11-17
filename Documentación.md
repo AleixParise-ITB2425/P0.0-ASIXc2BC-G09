@@ -139,7 +139,10 @@ Cargar el CSV en la tabla creada:
 
 ![load CSV](https://drive.google.com/uc?export=view&id=1y1A7CcPqJIDNA1yr61J0OUvU49jEkyNM)
 
+Comprobar que se ha creado e importado correctamente:
 
+![check table](https://drive.google.com/uc?export=view&id=1aY--xDe_IjvyyVsZQtxlStWW5Asf4XV7)
+![check csvimport](https://drive.google.com/uc?export=view&id=1P_s8RxxxomGWZRySOHzEJhxrnDZAh-oS)
 
 
 ---
