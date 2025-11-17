@@ -118,7 +118,7 @@ Instalar MYSQL y activar el servicio
 ## SFTP
 
 Instalacion y configuración del servidor SFTP. Se trata de un servidor cuya unica utilidad sera transferir archivos al servidor web.
-![Texto alternativo](https://drive.google.com/drive/folders/1XdqaN_uRQk4tvA_zKiK1cB4gyv8arfh2)
+![Texto alternativo](https://drive.google.com/uc?export=view&id=1XdqaN_uRQk4tvA_zKiK1cB4gyv8arfh2)
 
 
 
