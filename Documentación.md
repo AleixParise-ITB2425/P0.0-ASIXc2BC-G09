@@ -54,13 +54,34 @@ Ifconfig para enseñar las interfaces añadidas al Server
 
 
 ---
+## Configuración de DHCP
+Instalación:
+sudo apt install isc-dhcp-server -y
+Seleccionar interfaz:
+INTERFACESv4="enp3s0"
+Archivo de configuración /etc/dhcp/dhcpd.conf:
+<img width="530" height="157" alt="image" src="https://github.com/user-attachments/assets/bd7b5f7c-af1a-410a-af55-6418713b786e" />
+
+Reinicio:
+sudo systemctl restart isc-dhcp-server
+
+---
+## Configuración de DNS
+Instalación:
+sudo apt install dnsmasq -y
+Archivo /etc/dnsmasq.conf:
+<img width="419" height="195" alt="image" src="https://github.com/user-attachments/assets/a86d1511-11be-4d28-8476-5e36618ced75" />
+
+Reinicio:
+sudo systemctl restart dnsmasq
+
+---
 
 ## Interfaz DMZ
 
-Configuración de rutas para la interfaz DMZ al exterior.
-
-![DMZInterface](https://drive.google.com/uc?export=view&id=118Wk2xjUYwl2Cn4KlzVRplm9mDxsFC8W)
-![DMZInterface2](https://drive.google.com/uc?export=view&id=1kahSaRB48N4y8WsGjUaNL46llZPdZldq)
+Configuración de red para la interfaz DMZ.
+<img width="419" height="262" alt="image" src="https://github.com/user-attachments/assets/9e09a3f5-b0a9-4cb0-915d-99a76013c6f7" />
+<img width="654" height="335" alt="image" src="https://github.com/user-attachments/assets/46f75777-56de-45fe-9800-bf2fa03ca16d" />
 
 ---
 
@@ -68,6 +89,7 @@ Configuración de rutas para la interfaz DMZ al exterior.
 
 Mostrar el estado del servicio Apache tras haberlo instalado y configurado:
 ![ApacheState](https://drive.google.com/uc?export=view&id=1OPX8adz4LQEmfa4oEbaPwyULFYMmGSKf)
+
 
 
 ---
