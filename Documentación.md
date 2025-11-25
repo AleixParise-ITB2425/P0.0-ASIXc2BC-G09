@@ -56,13 +56,19 @@ Ifconfig para enseñar las interfaces añadidas al Server
 ---
 ## Configuración de DHCP
 Instalación:
+
 sudo apt install isc-dhcp-server -y
+
 Seleccionar interfaz:
+
 INTERFACESv4="enp3s0"
+
 Archivo de configuración /etc/dhcp/dhcpd.conf:
+
 <img width="530" height="157" alt="image" src="https://github.com/user-attachments/assets/bd7b5f7c-af1a-410a-af55-6418713b786e" />
 
 Reinicio:
+
 sudo systemctl restart isc-dhcp-server
 
 ---
