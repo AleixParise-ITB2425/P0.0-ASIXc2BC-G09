@@ -57,11 +57,11 @@ Ifconfig para enseñar las interfaces añadidas al Server
 ## Configuración de DHCP
 Instalación:
 
-sudo apt install isc-dhcp-server -y
+#sudo apt install isc-dhcp-server -y
 
 Seleccionar interfaz:
 
-INTERFACESv4="enp3s0"
+#INTERFACESv4="enp3s0"
 
 Archivo de configuración /etc/dhcp/dhcpd.conf:
 
@@ -69,7 +69,7 @@ Archivo de configuración /etc/dhcp/dhcpd.conf:
 
 Reinicio:
 
-sudo systemctl restart isc-dhcp-server
+#sudo systemctl restart isc-dhcp-server
 
 ---
 ## Configuración de DNS
