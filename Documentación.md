@@ -67,19 +67,19 @@ sudo systemctl restart isc-dhcp-server
 
 ---
 ## Configuración de DNS
-Instalación:
-sudo apt install dnsmasq -y
-Archivo /etc/dnsmasq.conf:
+# Instalación:
+# sudo apt install dnsmasq -y
+# Archivo /etc/dnsmasq.conf:
 <img width="419" height="195" alt="image" src="https://github.com/user-attachments/assets/a86d1511-11be-4d28-8476-5e36618ced75" />
 
-Reinicio:
-sudo systemctl restart dnsmasq
+# Reinicio:
+# sudo systemctl restart dnsmasq
 
 ---
 
 ## Interfaz DMZ
 
-Configuración de red para la interfaz DMZ.
+# Configuración de red para la interfaz DMZ.
 <img width="419" height="262" alt="image" src="https://github.com/user-attachments/assets/9e09a3f5-b0a9-4cb0-915d-99a76013c6f7" />
 <img width="654" height="335" alt="image" src="https://github.com/user-attachments/assets/46f75777-56de-45fe-9800-bf2fa03ca16d" />
 
