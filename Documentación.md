@@ -17,6 +17,20 @@ Conectividad verificada entre redes.
 
 Servidor central actuando como router, operativo y validado.
 
+## Escenario del Proyecto
+
+Hemos diseñado este escenario basándonos en nuestro proyecto. Se puede ver que está separado principalmente en tres zonas: la zona DMZ, donde encontramos el servidor que da servicio a la página web y también el servidor FTP, el cual utilizamos para subir y transferir todo tipo de archivos o documentos de un servidor a otro. Hemos situado ambos servidores en la DMZ por motivos de seguridad y conectividad.
+
+Por otra parte, tenemos la zona de la intranet, donde están alojados los servidores que proporcionan servicios como DHCP, DNS, etc., además del servidor que almacena la base de datos. Hemos ubicado estos servicios en la zona más "privada" por razones de seguridad, ya que los datos que almacenan son cruciales. El servidor DHCP da servicio a todos los clientes, en este caso a una máquina Ubuntu y una Windows que se encuentran en la red privada.
+
+Como parte central del escenario, de la cual dependen todas las redes de la empresa, encontramos un servidor “principal”. Este servidor es el encargado de enrutar ambas redes y de garantizar que todos los servidores y clientes puedan acceder a internet de forma segura.
+![ProofhubImage](https://drive.google.com/uc?export=view&id=1bGsWVyu-GGjQO0w24NVtO08mj1T3Wkyx/view?usp=sharing)
+
+![ProofhubImage2](https://drive.google.com/uc?export=view&id=107wAJUgTMDin7j6za1mgbqoWJOhikbS3)
+
+https://drive.google.com/file/d/1bGsWVyu-GGjQO0w24NVtO08mj1T3Wkyx/view?usp=sharing
+---
+
 ## ProofHub
 
 Creación de los diferentes puntos a seguir para llevar el proyecto a cabo de manera ordenada con el grupo.
