@@ -50,7 +50,7 @@ Creación del usuario en el server para poder administrarlo remotamente.
 ## Interfaces de red
 
 Ifconfig para enseñar las interfaces añadidas al Server
-![NetInterfaces](https://drive.google.com/uc?export=view&id=1GwD_2pB8_Wf6NBXBZGKhkcMUBddn-LXx)
+![NetInterfaces](https://drive.google.com/drive/folders/1XdqaN_uRQk4tvA_zKiK1cB4gyv8arfh2)
 
 ---
 
