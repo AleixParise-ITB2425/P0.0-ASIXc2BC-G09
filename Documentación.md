@@ -32,9 +32,13 @@ Como parte central del escenario, de la cual dependen todas las redes de la empr
 ## ProofHub
 
 Creación de los diferentes puntos a seguir para llevar el proyecto a cabo de manera ordenada con el grupo.
+Hemos separado el proyecto en 3 diferentes sprints, de tal manera que en cada uno de los sprints se hara la entrega de un MPV.
 
-![ProofhubImage](https://drive.google.com/uc?export=view&id=1Tgar7wh32cglgoPmw8-iAttw_bJx_Sxt)
-![ProofhubImage2](https://drive.google.com/uc?export=view&id=107wAJUgTMDin7j6za1mgbqoWJOhikbS3)
+Sprint 1  <img width="1698" height="890" alt="image" src="https://github.com/user-attachments/assets/daffa5dd-c049-4e91-bf17-4ce4bd6184e2" />
+Sprint 2  <img width="1698" height="890" alt="image" src="https://github.com/user-attachments/assets/ff700df9-a4f1-4885-a5d1-2712f946fa0e" />
+Sprint 3 <img width="1698" height="890" alt="image" src="https://github.com/user-attachments/assets/2921a025-742b-47ad-9ca1-cab44c546a87" />
+
+
 
 
 ---
